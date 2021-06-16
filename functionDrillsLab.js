@@ -234,10 +234,10 @@ console.log(totalFrogs);
 */
 
 //CODE HERE
-function stockUpFrogs(gold) {
+function stockUpFrogs2(gold) {
   return Math.floor(gold / 3);
 }
-var totalFrogs2 = stockUpFrogs(89);
+var totalFrogs2 = stockUpFrogs2(89);
 console.log(totalFrogs2);
 
 ////////////////// PROBLEM 14 ////////////////////
